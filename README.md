@@ -2,7 +2,7 @@
 
 ### О плагине
 Плагин крашит клиент указанного игрока  
-Использование: /crashplayer <ник>  
+Использование: /crashplayer <ник> (право crashplayer.crash)    
 __Плагин требует ProtocolLib для работы!__  
 ***
 ![Screenshot](image.png)
