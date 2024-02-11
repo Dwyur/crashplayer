@@ -5,4 +5,4 @@
 Использование: /crashplayer <ник>  
 __Плагин требует ProtocolLib для работы!__  
 ***
-![Screenshot](screenshot.png)
+![Screenshot](image.png)
