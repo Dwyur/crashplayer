@@ -1,0 +1,9 @@
+name: CrashPlayer
+version: '${version}'
+main: me.dwyur.crashplayer.CrashPlayer
+api-version: '1.16'
+author: Dwyur
+depend:
+  - ProtocolLib
+commands:
+  crashplayer:

@@ -1,0 +1,9 @@
+# made by Dwyur
+
+messages: # цвета через §
+  no-perm: "§cНет прав!"
+  usage-command: "§cИспользуйте /crashplayer <ник>!"
+  player-not-found: "§cИгрок не найден!"
+  success-crash: "§aВы успешно крашнули игрока!"
+  title: "§dНу все, гг" # Тайтл, который отправляется при краше
+  sub-title: "§fэто сабтайл еее" # Саб тайтл
